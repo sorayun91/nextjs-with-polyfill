@@ -3,7 +3,6 @@ import { goodsApi } from "./api";
 import Layout from "../components/MyLayout";
 // import MainSlider from "../components/MainSlider";
 import GoodsThumb from "../components/GoodsThumb";
-// import "../style/common.scss";
 
 const Index = props => (
     <>

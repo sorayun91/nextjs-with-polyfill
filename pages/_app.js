@@ -1,9 +1,7 @@
-// import "babel-polyfill";
-// import "react-app-polyfill/ie9";
-// import "react-app-polyfill/stable";
-
-// import React from "react";
+import React from "react";
 import App from "next/app";
+import "../public/style/reset.scss";
+import "../public/style/common.scss";
 
 class MyApp extends App {
     // Only uncomment this method if you have blocking data requirements for

@@ -8,7 +8,7 @@ $bt-test-bg: rgba(0, 0, 0, 0.2);
 
 body {
     color: #5a5a5a;
-    font-family: "Noto Sans KR", sans-serif;
+    // font-family: "Noto Sans KR", sans-serif;
 }
 
 header {
@@ -51,11 +51,11 @@ header {
             right: 10px;
             width: 30px;
             height: 30px;
-            background: url("../static/img/ico_search_x2.webp") no-repeat center;
             background-size: 100%;
         }
     }
 }
+
 .main {
     border-bottom: 1px solid #eee;
 }
